@@ -6,7 +6,7 @@ categories: jekyll update
 testing my first posting
 
 '''python
-def print_hi(name)
+def print_hi(name):
   print("hi, ", name)
 print_hi('froginaz')
 '''
