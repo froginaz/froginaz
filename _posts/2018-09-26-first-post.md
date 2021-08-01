@@ -3,7 +3,7 @@ title: "My first posting"
 date: 2018-09-26 23:00:00 -0400
 categories: jekyll update
 ---
-testing my first posting
+testing my first posting....
 
 ```python
 def print_hi(name):
